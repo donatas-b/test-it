@@ -1,0 +1,7 @@
+BACKEND_FILE = '..\\..\\Task\\backend.jar'
+UI_SERVER = '..\\..\\Task\\UI_Server\\server.js'
+INPUT_FILE = '..\\..\\Task\\DropZone\\Input.txt'
+OUTPUT_FOLDER = '..\\..\\Task\\UI_Server\\CSVs'
+OUTPUT_FILE = '..\\..\\Task\\UI_Server\\CSVs\\black_box_results.csv '
+UI_URL = 'http://127.0.0.1:8080/'
+CHROME_DRIVER = '..\\lib\\bin\\chromedriver.exe'
